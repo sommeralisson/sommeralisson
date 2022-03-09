@@ -1,13 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alisson Sommer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sommeralisson&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alisson Sommer <img height="20" align="right" src="https://komarev.com/ghpvc/?username=sommeralisson&color=yellow" alt="Profile views" /></h1>
 
-- 🔥 Acadêmico em Sistemas de Informação 
+🔥 Acadêmico em Sistemas de Informação 
 
-- 🔭 Atualmente trabalho na [Nxfacil](https://www.nxfacil.com.br) como Web Developer
+🔭 Atualmente trabalho na [Nxfacil](https://www.nxfacil.com.br) como Web Developer
 
-- 👨‍💻 Meu portfólio pode ser visto em [Sommerport](https://sommerport.com/)
+👨‍💻 Meu portfólio pode ser visto em [Sommerport](https://sommerport.com/)
 
-- ▶️ Lifelong learning
+▶️ Lifelong learning
 
 <div align="center">
   <a href="https://github.com/sommeralisson">
@@ -15,10 +14,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sommeralisson&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alisson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
   
   ##
