@@ -2,7 +2,7 @@
 
 🔥 Acadêmico em Sistemas de Informação 
 
-🔭 Atualmente trabalho na [Nxfacil](https://www.nxfacil.com.br) como Web Developer
+🔭 Atualmente trabalho na [Área Central](https://www.areacentral.com.br) como Web Developer
 
 👨‍💻 Meu portfólio pode ser visto em [Sommerport](https://sommerport.com/)
 
