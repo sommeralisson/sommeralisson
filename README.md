@@ -2,9 +2,9 @@
 
 🔥 Acadêmico em Sistemas de Informação 
 
-🔭 Atualmente trabalho na [Área Central](https://www.areacentral.com.br) como Web Developer
+🔭 Atualmente trabalho na [Área Central](https://www.areacentral.com.br) como Full Stack Developer
 
-👨‍💻 Meu portfólio pode ser visto em [Sommerport](https://sommerport.com/)
+👨‍💻 Meu portfólio pode ser visto em [Sommerport](https://sommerport.com/) (desativado)
 
 ▶️ Lifelong learning
 
