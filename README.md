@@ -1,10 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alisson Sommer <img height="20" align="right" src="https://komarev.com/ghpvc/?username=sommeralisson&color=yellow" alt="Profile views" /></h1>
 
-🔥 Acadêmico em Sistemas de Informação 
-
 🔭 Atualmente trabalho na [Área Central](https://www.areacentral.com.br) como Full Stack Developer
-
-👨‍💻 Meu portfólio pode ser visto em [Sommerport](https://sommerport.com/) (desativado)
 
 ▶️ Lifelong learning
 
