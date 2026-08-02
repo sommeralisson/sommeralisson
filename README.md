@@ -1,9 +1,5 @@
-<div align="center">
-
 # Alisson Sommer
 ### Desenvolvedor Web
-
-</div>
 
 <br>
 
@@ -11,6 +7,7 @@
 
 **Languages**
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -42,19 +39,6 @@
 <p>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS"/>
 </p>
-
-<br>
-
-## Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sommeralisson&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sommeralisson&layout=compact&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sommeralisson&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 <br>
 
